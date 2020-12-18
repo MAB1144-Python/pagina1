@@ -1,0 +1,23 @@
+.title {
+    background-color: #ff9400;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.title h1 a, .title h2 a {
+    color: #ffffff;
+    font-size: 40pt;
+    font-family: 'Lobster';
+}
+
+p {
+    color: #000000;
+    font-size: 20pt;
+    margin-right: 20px;
+}
+
+.content {
+    margin-left: 80px;
+}
+
+
